@@ -6,12 +6,11 @@ slugs:
 - store
 ---
 
-
   <div class="wy-grid-for-nav">
     <nav data-toggle="wy-nav-shift" class="wy-nav-side stickynav">
     <div class="wy-side-scroll">
       <div class="wy-side-nav-search">
-        <a href="blog/home" class="icon icon-home"> Manual de Usuario NazanUtility</a>
+        <a href=".." class="icon icon-home"> Manual de Usuario NazanUtility</a>
       </div>
       <div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="main navigation">
                 <ul>
@@ -19,7 +18,7 @@ slugs:
                     </li>
                 </ul>
                 <ul>
-                    <li class="toctree-l1"><a class="reference internal" href="blog/dashboard">Panel de control</a>
+                    <li class="toctree-l1"><a class="reference internal" href="blog/dashboard/">Panel de control</a>
                     </li>
                 </ul>
                 <ul class="current">
@@ -27,15 +26,15 @@ slugs:
                     </li>
                 </ul>
                 <ul>
-                    <li class="toctree-l1"><a class="reference internal" href="blog/banks">Bancos</a>
+                    <li class="toctree-l1"><a class="reference internal" href="blog/banks/">Bancos</a>
                     </li>
                 </ul>
                 <ul>
-                    <li class="toctree-l1"><a class="reference internal" href="blog/regions">Regiones</a>
+                    <li class="toctree-l1"><a class="reference internal" href="blog/regions/">Regiones</a>
                     </li>
                 </ul>
                 <ul>
-                    <li class="toctree-l1"><a class="reference internal" href="blog/crud">Registros</a>
+                    <li class="toctree-l1"><a class="reference internal" href="blog/crud/">Registros</a>
                     </li>
                 </ul>
       </div>
@@ -45,13 +44,13 @@ slugs:
 <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap">
   <nav class="wy-nav-top" role="navigation" aria-label="top navigation">
     <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
-    <a href="blog/home">Manual de Usuario NazanUtility</a>
+    <a href="..">Manual de Usuario NazanUtility</a>
   </nav>
   <div class="wy-nav-content">
     <div class="rst-content">
       <div role="navigation" aria-label="breadcrumbs navigation">
         <ul class="wy-breadcrumbs">
-          <li><a href="blog/home">Docs</a> &raquo;</li>
+          <li><a href="..">Manual de Usuario NazanUtility</a> &raquo;</li>
           <li>Tienda</li>
           <li class="wy-breadcrumbs-aside">
           </li>
@@ -98,8 +97,8 @@ slugs:
       </div>
       <footer>
         <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
-          <a href="blog/banks" class="btn btn-neutral float-right" title="Bancos">Siguiente <span class="icon icon-circle-arrow-right"></span></a>
-          <a href="blog/dashboard" class="btn btn-neutral" title="Panel de control"><span class="icon icon-circle-arrow-left"></span> Anterior</a>
+          <a href="blog/banks/" class="btn btn-neutral float-right" title="Bancos">Siguiente <span class="icon icon-circle-arrow-right"></span></a>
+          <a href="blog/dashboard/" class="btn btn-neutral" title="Panel de control"><span class="icon icon-circle-arrow-left"></span> Anterior</a>
         </div>
         <hr />
       </footer>
@@ -109,7 +108,7 @@ slugs:
 </div>
 <div class="rst-versions" role="note" aria-label="versions">
   <span class="rst-current-version" data-toggle="rst-current-version">
-    <span><a href="blog/dashboard" style="color: #fcfcfc;">&laquo; Anterior</a></span>
-    <span style="margin-left: 15px"><a href="blog/banks" style="color: #fcfcfc">Siguiente &raquo;</a></span>
+    <span><a href="blog/dashboard/" style="color: #fcfcfc;">&laquo; Anterior</a></span>
+    <span style="margin-left: 15px"><a href="blog/banks/" style="color: #fcfcfc">Siguiente &raquo;</a></span>
   </span>
 </div>

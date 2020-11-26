@@ -50,7 +50,7 @@ slugs:
       <div class="rst-content">
         <div role="navigation" aria-label="breadcrumbs navigation">
           <ul class="wy-breadcrumbs">
-            <li><a href="blog/home">Docs</a> &raquo;</li>
+            <li><a href="blog/home">Manual de Usuario NazanUtility</a> &raquo;</li>
             <li>Inicio</li>
             <li class="wy-breadcrumbs-aside">
             </li>
@@ -70,7 +70,7 @@ slugs:
               <li>Zonas (Lista de zonas postales en México)</li>
             </ol>
             <p>
-              <center><img src="../img/paneldecontrol.png"></center>
+              <center><img src="assets/img/paneldecontrol.png"></center>
             </p>
           </div>
         </div>
