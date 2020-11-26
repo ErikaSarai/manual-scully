@@ -6,7 +6,7 @@ slugs:
 - store
 ---
 
-  <div class="wy-grid-for-nav">
+  <div class="wy-grid-for-nav"}>
     <nav data-toggle="wy-nav-shift" class="wy-nav-side stickynav">
     <div class="wy-side-scroll">
       <div class="wy-side-nav-search">
