@@ -6,12 +6,11 @@ slugs:
 - store
 ---
 
-
-  <div class="wy-grid-for-nav">
+  <div class="wy-grid-for-nav"}>
     <nav data-toggle="wy-nav-shift" class="wy-nav-side stickynav">
     <div class="wy-side-scroll">
       <div class="wy-side-nav-search">
-        <a href="blog/home" class="icon icon-home"> Manual de Usuario NazanUtility</a>
+        <a href="blog/home" class="icon icon-home">Manual de Usuario NazanUtility</a>
       </div>
       <div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="main navigation">
                 <ul>
@@ -51,7 +50,7 @@ slugs:
     <div class="rst-content">
       <div role="navigation" aria-label="breadcrumbs navigation">
         <ul class="wy-breadcrumbs">
-          <li><a href="blog/home">Docs</a> &raquo;</li>
+          <li><a href="blog/home">Manual de Usuario NazanUtility</a> &raquo;</li>
           <li>Tienda</li>
           <li class="wy-breadcrumbs-aside">
           </li>
@@ -60,6 +59,9 @@ slugs:
       </div>
       <div role="main">
         <div class="section">
+            <h2>
+              <center>Tienda</center>
+            </h2>
           <p>El el modulo de Tienda encontraremos 2 secciones:</p>
           <ol>
             <li>Tienda</li>

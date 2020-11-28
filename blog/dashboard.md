@@ -10,7 +10,7 @@ slugs:
   <nav data-toggle="wy-nav-shift" class="wy-nav-side stickynav">
     <div class="wy-side-scroll">
       <div class="wy-side-nav-search">
-        <a href="blog/home" class="icon icon-home"> Manual de Usuario NazanUtility</a>
+        <a href="blog/home" class="icon icon-home">Manual de Usuario NazanUtility</a>
       </div>
       <div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="main navigation">
         <ul>
@@ -50,8 +50,8 @@ slugs:
       <div class="rst-content">
         <div role="navigation" aria-label="breadcrumbs navigation">
           <ul class="wy-breadcrumbs">
-            <li><a href="blog/home">Docs</a> &raquo;</li>
-            <li>Inicio</li>
+            <li><a href="blog/home">Manual de Usuario NazanUtility</a> &raquo;</li>
+            <li>Panel de Control</li>
             <li class="wy-breadcrumbs-aside">
             </li>
           </ul>
@@ -70,7 +70,7 @@ slugs:
               <li>Zonas (Lista de zonas postales en México)</li>
             </ol>
             <p>
-              <center><img src="../img/paneldecontrol.png"></center>
+              <center><img src="assets/img/paneldecontrol.png"></center>
             </p>
           </div>
         </div>

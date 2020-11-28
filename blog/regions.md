@@ -6,11 +6,11 @@ slugs:
 - regions
 ---
 
-<div class="wy-grid-for-nav">
-  <nav data-toggle="wy-nav-shift" class="wy-nav-side stickynav">
+  <div class="wy-grid-for-nav">
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side stickynav">
     <div class="wy-side-scroll">
       <div class="wy-side-nav-search">
-        <a href="blog/home" class="icon icon-home"> Manual de Usuario NazanUtility</a>
+        <a href="blog/home" class="icon icon-home">Manual de Usuario NazanUtility</a>
       </div>
       <div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="main navigation">
         <ul>
@@ -41,58 +41,57 @@ slugs:
       </div>
     </div>
   </nav>
-</div>
-        <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap">
-            <nav class="wy-nav-top" role="navigation" aria-label="top navigation">
-                <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
-                <a href="blog/home">Manual de Usuario NazanUtility</a>
-            </nav>
-            <div class="wy-nav-content">
-                <div class="rst-content">
-                    <div role="navigation" aria-label="breadcrumbs navigation">
-                        <ul class="wy-breadcrumbs">
-                            <li><a href="blog/home">Docs</a> &raquo;</li>
-                            <li>Inicio</li>
-                            <li class="wy-breadcrumbs-aside">
-                            </li>
-                        </ul>
-                        <hr />
-                    </div>
-                    <div role="main">
-                        <div class="section">
-                            <h2>
-                                <center>Zonas postales</center>
-                            </h2>
-                            <p>En el apartado de Regiones se mostraran los datos de la Lista de zonas postales en
-                                México.</p>
-                            <p>
-                                <center><img src="../img/regiones.png"></center>
-                            </p>
-                            <p>los datos que muestras son:</p>
-                            <ol>
-                                <li>Sts </li>
-                                <li>Id </li>
-                                <li>Nombre de zona postal</li>
-                                <li>codigo
-                                    <center><img src="../img/infzonaspostales.png"></center>
-                                </li>
-                            </ol>
-                        </div>
-                    </div>
-                    <footer>
-         <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
+  <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap">
+    <nav class="wy-nav-top" role="navigation" aria-label="top navigation">
+      <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+      <a href="blog/home">Manual de Usuario NazanUtility</a>
+    </nav>
+    <div class="wy-nav-content">
+      <div class="rst-content">
+        <div role="navigation" aria-label="breadcrumbs navigation">
+          <ul class="wy-breadcrumbs">
+            <li><a href="blog/home">Manual de Usuario NazanUtility</a> &raquo;</li>
+            <li>Regiones</li>
+            <li class="wy-breadcrumbs-aside">
+            </li>
+          </ul>
+          <hr />
+        </div>
+        <div role="main">
+          <div class="section">
+            <h2>
+              <center>Zonas postales</center>
+            </h2>
+            <p>En el apartado de Regiones se mostraran los datos de la Lista de zonas postales en
+              México.</p>
+            <p>
+              <center><img src="assets/img/regiones.png"></center>
+            </p>
+            <p>los datos que muestras son:</p>
+            <ol>
+              <li>Sts </li>
+              <li>Id </li>
+              <li>Nombre de zona postal</li>
+              <li>codigo
+                <center><img src="assets/img/infzonaspostales.png"></center>
+              </li>
+            </ol>
+          </div>
+        </div>
+      <footer>
+        <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
           <a href="blog/crud" class="btn btn-neutral float-right" title="Bancos">Siguiente <span class="icon icon-circle-arrow-right"></span></a>
           <a href="blog/banks" class="btn btn-neutral" title="Panel de control"><span class="icon icon-circle-arrow-left"></span> Anterior</a>
         </div>
-                        <hr />
-                    </footer>
-                </div>
-            </div>
-        </section>
+        <hr />
+      </footer>
     </div>
-    <div class="rst-versions" role="note" aria-label="versions">
-        <span class="rst-current-version" data-toggle="rst-current-version">
-            <span><a href="blog/banks" style="color: #fcfcfc;">&laquo; Anterior</a></span>
-            <span style="margin-left: 15px"><a href="blog/crud" style="color: #fcfcfc">Siguiente &raquo;</a></span>
-        </span>
-    </div>
+  </div>
+</section>
+</div>
+<div class="rst-versions" role="note" aria-label="versions">
+  <span class="rst-current-version" data-toggle="rst-current-version">
+    <span><a href="blog/banks" style="color: #fcfcfc;">&laquo; Anterior</a></span>
+    <span style="margin-left: 15px"><a href="blog/crud" style="color: #fcfcfc">Siguiente &raquo;</a></span>
+  </span>
+</div>
